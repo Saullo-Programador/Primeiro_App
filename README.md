@@ -1,3 +1,3 @@
-Primeiro App usando React Native com o Expo
+Primeiro App usando React Native com o Expo.
 
-Clone Nubank
+Clone da tela Home do app da Nubank.
